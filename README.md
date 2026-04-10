@@ -4,6 +4,13 @@
 
 ---
 
+> ### De 400 Particulas a Deus
+> *Um programador, um simulador de particulas, e uma conversa com uma IA que mudou minha forma de ver existencia.*
+>
+> **[Ler em Portugues](artigo.md)** | **[Read in English](article.md)**
+
+---
+
 ## O que e isto?
 
 Uma simulacao 2D onde **regras locais simples** geram comportamento complexo: orbitas, regioes termicas, proto-atomos — sem nunca programar esses conceitos diretamente.
@@ -23,13 +30,6 @@ regras simples  ->  interacoes  ->  padroes  ->  complexidade
 
 Criar um universo com estrutura emergente nao requer muita informacao. Requer poucas regras — e as regras certas. Dez constantes e uma semente. Nenhum atomo foi desenhado. Nenhuma orbita foi programada. O resto emerge sozinho.
 
-## Ensaios
-
-Este projeto gerou uma reflexao sobre emergencia, consciencia, a hipotese da simulacao, e os paralelos entre simulacao computacional e cosmologia religiosa.
-
-- **Portugues**: [artigo.md](artigo.md) — *De 400 Particulas a Deus*
-- **English**: [article.md](article.md) — *From 400 Particles to God*
-
 ## Tecnico
 
 Detalhes de como rodar, controles, arquitetura e o que acontece na simulacao: [TECHNICAL.md](TECHNICAL.md)
@@ -37,6 +37,13 @@ Detalhes de como rodar, controles, arquitetura e o que acontece na simulacao: [T
 ---
 
 <a name="english"></a>
+
+> ### From 400 Particles to God
+> *A programmer, a particle simulator, and a conversation with an AI that changed how I see existence.*
+>
+> **[Ler em Portugues](artigo.md)** | **[Read in English](article.md)**
+
+---
 
 ## What is this?
 
@@ -56,13 +63,6 @@ simple rules  ->  interactions  ->  patterns  ->  complexity
 > The universe is not made of complex objects. It is made of **simple rules that allow complexity**.
 
 Creating a universe with emergent structure doesn't require much information. It requires few rules — and the right rules. Ten constants and a seed. No atom was designed. No orbit was programmed. The rest emerges on its own.
-
-## Essays
-
-This project sparked a reflection on emergence, consciousness, the simulation hypothesis, and the parallels between computational simulation and religious cosmology.
-
-- **Portugues**: [artigo.md](artigo.md) — *De 400 Particulas a Deus*
-- **English**: [article.md](article.md) — *From 400 Particles to God*
 
 ## Technical
 
