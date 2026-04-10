@@ -1,13 +1,12 @@
-# Universo
+# Universo / Universe
 
 **PT-BR** | [English below](#english)
 
 ---
-
-> ### De 400 Particulas a Deus
-> *Um programador, um simulador de particulas, e uma conversa com uma IA que mudou minha forma de ver existencia.*
->
-> **[Ler em Portugues](artigo.md)** | **[Read in English](article.md)**
+### De 400 Particulas a Deus
+*Um programador, um simulador de particulas, e uma conversa com uma IA que mudou minha forma de ver existencia.*
+**[Ler em Portugues](artigo.md)**
+**[Read in English](article.md)**
 
 ---
 
